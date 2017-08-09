@@ -9,7 +9,7 @@ I frequently find myself browsing local data sources for pedagological / data sc
 Note: also consider checking data portals at different levels of government (e.g., City of Denver, Boulder County, and of course national sources like [data.gov](http://data.gov), [cdc.gov](http://cdc.gov/datastatistics/), and [censusreporter.org](https://censusreporter.org)).
 
 * [cohealthdata.dphe.state.co.us](http://cohealthdata.dphe.state.co.us) (Colorado Health and Environmental Data)
-* [coepht.dphe.state.co.us](http://coepht.dphe.state.co.us) (Colorado Environmental Public Health Tracking)
+* [coepht.dphe.state.co.us](https://www.cohealthdata.dphe.state.co.us/) (Colorado Environmental Public Health Tracking)
 * [cogcc.state.co.us](http://cogcc.state.co.us) (Oil and Gas Conservation Commission; also see [airwatergas.org](http://airwatergas.org))
 * [colorado.gov/apps/oit/transparency/index.html](https://www.colorado.gov/apps/oit/transparency/index.html) (Colorado Transparency Online Project)
 * [colorado.gov/pacific/revenue/statistics](http://colorado.gov/pacific/revenue/statistics) (Department of Revenue)
