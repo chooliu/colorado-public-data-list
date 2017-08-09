@@ -45,7 +45,7 @@ Note: also consider checking data portals at different levels of government (e.g
 ## Citizen-Wrangled Data Sources
 | Site | Owner | Description | Data Type |
 |:----|:---|:---|:----|
-| | | | |
+| [https://github.com/openelections](https://github.com/openelections/openelections-data-co)| Colorado Election Open Data | Pre-processed election results for Colorado elections| CSV |
 
 There are many other sources of public data that may not meet the definition of "open data" (see the [Sunlight Foundation](https://sunlightfoundation.com/opendataguidelines/) guidelines).
 
