@@ -35,14 +35,20 @@ Note: also consider checking data portals at different levels of government (e.g
 ## County Organizations With Open Data
 | Site | Owner/County | Description | Data Type |
 |:----|:---|:---|:----|
-| http://jeffco.us/open/ | Jefferson County | Links to some open data for Jeffco (mostly financial/legal stuff?)  | |
+| [http://jeffco.us/open/](http://jeffco.us/open/) | Jefferson County | Links to some open data for Jeffco (mostly financial/legal stuff?)  | various |
+| [http://www.larimer.org/assessor/query/search.cfm](larimer.org)| Larimer County | **Assessor Property Records Search:** Search property records in Larimer County | Web Search/scrapable |
+| [http://www.larimer.org/assessor/residential_sales.cfm](larimer.org)| Larimer County | **Residential Property Sales Search:** Search residential property sales in Larimer County | Web Search/scrapable |
+| [http://www.larimer.org/publictrustee/search/AllReports.aspx](larimer.org)| Larimer County | **Foreclosure Search:**  Larimer County Foreclosure Pre Sale List | Web Search/scrapable |
+| [http://www.larimer.org/treasurer/query/search.cfm](larimer.org)| Larimer County | **Treasury Property Taxes Inquiry:** Search Larimer County for Property Taxes | Web Search/scrapable |
+| [http://www.larimer.org/streets/street_query.cfm](larimer.org)| Larimer County | **Street Name Query:** Lookup street names for Larimer County | Web Search/scrapable |
+| [http://www.larimer.org/food/](larimer.org)|  Larimer County| **Resturant Inspection Database:** Here you can view inspection reports for restaurants, fast food operations, delis, markets, cafeterias, convenience stores and other types of food establishments inspected by the Health Department.| Web Search/scrapable |
 
 ## City Organizations With Open Data
 | Site | Owner/City | Description | Data Type |
 |:----|:---|:---|:----|
 | https://www.denvergov.org/opendata | Denver | | |
-| https://bouldercolorado.gov/open-data | Boulder | | |
-| | | | |
+| https://bouldercolorado.gov/open-data | Boulder | | | |
+
 
 ## Citizen-Wrangled Data Sources
 | Site | Owner | Description | Data Type |
