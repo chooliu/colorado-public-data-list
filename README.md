@@ -11,7 +11,7 @@ Note: also consider checking data portals at different levels of government (e.g
 * [cohealthdata.dphe.state.co.us](http://cohealthdata.dphe.state.co.us) (Colorado Health and Environmental Data)
 * [coepht.dphe.state.co.us](http://coepht.dphe.state.co.us) (Colorado Environmental Public Health Tracking)
 * [cogcc.state.co.us](http://cogcc.state.co.us) (Oil and Gas Conservation Commission; also see [airwatergas.org](http://airwatergas.org))
-* [colorado.gov/apps/oit/transparency/index.html](http://colorado.gov/apps/oit/transparency/index.html) (Colorado Transparency Online Project)
+* [colorado.gov/apps/oit/transparency/index.html](https://www.colorado.gov/apps/oit/transparency/index.html) (Colorado Transparency Online Project)
 * [colorado.gov/pacific/revenue/statistics](http://colorado.gov/pacific/revenue/statistics) (Department of Revenue)
 * [coloradohealthinstitute.org/data](http://coloradohealthinstitute.org/data) (Colorado Health Institute)
 * [data.colorado.gov](http://data.colorado.gov) (Colorado Information Marketplace / State of Colorado)
