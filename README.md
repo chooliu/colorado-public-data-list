@@ -2,7 +2,7 @@
 
 A curated list of open data portals provided by local Colorado organizations (and some other public data that we're wrangling ourselves).
 
-## Local Organizations With Open Data
+## State Organizations With Open Data
 
 I frequently find myself browsing local data sources for pedagological / data science for social good projects. Sharing on the off-chance that it's useful to others! Feel free to submit a pull request if you have any additions.
 
@@ -32,8 +32,20 @@ Note: also consider checking data portals at different levels of government (e.g
 | [sos.state.co.us](http://sos.state.co.us) | Secretary of State | | |
 | [water.state.co.us/DataMaps/DataSearch/Pages/DataSearch.aspx](http://water.state.co.us/DataMaps/DataSearch/Pages/DataSearch.aspx) | Department of Natural Resources | | |
 
+## County Organizations With Open Data
+| Site | Owner | Description | Data Type |
+|:----|:---|:---|:----|
+| | | | |
+
+## City Organizations With Open Data
+| Site | Owner | Description | Data Type |
+|:----|:---|:---|:----|
+| | | | |
 
 ## Citizen-Wrangled Data Sources
+| Site | Owner | Description | Data Type |
+|:----|:---|:---|:----|
+| | | | |
 
 There are many other sources of public data that may not meet the definition of "open data" (see the [Sunlight Foundation](https://sunlightfoundation.com/opendataguidelines/) guidelines).
 
