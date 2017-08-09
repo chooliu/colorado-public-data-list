@@ -33,12 +33,12 @@ Note: also consider checking data portals at different levels of government (e.g
 | [water.state.co.us/DataMaps/DataSearch/Pages/DataSearch.aspx](http://water.state.co.us/DataMaps/DataSearch/Pages/DataSearch.aspx) | Department of Natural Resources | | |
 
 ## County Organizations With Open Data
-| Site | Owner | Description | Data Type |
+| Site | Owner/County | Description | Data Type |
 |:----|:---|:---|:----|
 | | | | |
 
 ## City Organizations With Open Data
-| Site | Owner | Description | Data Type |
+| Site | Owner/City | Description | Data Type |
 |:----|:---|:---|:----|
 | | | | |
 
