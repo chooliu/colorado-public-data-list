@@ -40,6 +40,8 @@ Note: also consider checking data portals at different levels of government (e.g
 ## City Organizations With Open Data
 | Site | Owner/City | Description | Data Type |
 |:----|:---|:---|:----|
+| https://www.denvergov.org/opendata | Denver | | |
+| https://bouldercolorado.gov/open-data | Boulder | | |
 | | | | |
 
 ## Citizen-Wrangled Data Sources
