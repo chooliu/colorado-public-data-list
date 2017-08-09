@@ -35,7 +35,7 @@ Note: also consider checking data portals at different levels of government (e.g
 ## County Organizations With Open Data
 | Site | Owner/County | Description | Data Type |
 |:----|:---|:---|:----|
-| | | | |
+| http://jeffco.us/open/ | Jefferson County | Links to some open data for Jeffco (mostly financial/legal stuff?)  | |
 
 ## City Organizations With Open Data
 | Site | Owner/City | Description | Data Type |
