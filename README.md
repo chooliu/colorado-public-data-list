@@ -14,7 +14,7 @@ Note: There's many fantastic federal data sources like [data.gov](http://data.go
 ## Official State Organizations
 
 | Site | Owner | Notes | Format |
-|:----|:---|:---|:---|:---|
+|:----|:---|:---|:---|
 | Colorado's Decision Support Systems | [cdss.state.co.us/onlineTools](http://cdss.state.co.us/onlineTools/Pages/OtherData.aspx) | agricultural and livestock yields, as well as some of the water resources data of the Depart of Natural Resources described below.  | search query -> pdf, csv |
 | Colorado Department of Natural Resources | [water.state.co.us/DataMaps](http://water.state.co.us/DataMaps/DataSearch/Pages/DataSearch.aspx) | groundwater monitoring and maps, water rights, climate stations. | search query |
 | Colorado Environmental Public Health Tracking| [coepht.dphe.state.co.us](http://www.coepht.dphe.state.co.us/)| longitudinal disease surveillance data, as well as some environmental data (ozone, particulate matter levels, oil and gas concerns). | search query -> Google drive tables |
