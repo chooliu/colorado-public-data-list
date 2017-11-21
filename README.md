@@ -22,6 +22,7 @@ Note: There's many fantastic federal data sources like [data.gov](http://data.go
 | Oil and Gas Conservation Commission |  [cogcc.state.co.us](http://cogcc.state.co.us)  | well permits, production rates, locations, spills. also see [airwatergas.org](http://airwatergas.org) for scrapes of limited "open data" versions. | search queries -> PowerBI tables |
 |Colorado Transparency Online Project | [colorado.gov/apps/oit/transparency](https://www.colorado.gov/apps/oit/transparency/index.html) | grants, budget, revenue/expenses by fiscal year; also see "Resources" tab | search query -> excel table |
 |Colorado Data Marketplace | [data.colorado.gov](http://data.colorado.gov) | official State of Colorado open data portal. highly recommended. ⭐ | Socrata portal |
+|Colorado Department of Education | [cde.state.co.us/schoolview](https://www.cde.state.co.us/schoolview) | enrollment, test scores, outcomes, administration info for schools | xls, search query, cognos |
 | Colorado Department of Public Health and Environment |  [data-cdphe.opendata.arcgis.com](http://data-cdphe.opendata.arcgis.com) | goespatial data (boundaries, surveillance, demographics) from the CDPHE | ArcGIS Portal |
 | Colorado Department of Revenue | [colorado.gov/pacific/revenue/statistics](http://colorado.gov/pacific/revenue/statistics) |  tax revenue (e.g. gambling, marijuana, sales, income) and expenditure reports | excel, pdf |
 | Department of Local Affairs / Demography Office | [demography.dola.colorado.gov/data](http://demography.dola.colorado.gov/data)| population, demographics, jobs/labor force, housing projections; miscellaneous GIS files | csv, shapefiles |
@@ -42,7 +43,7 @@ Note: There's many fantastic federal data sources like [data.gov](http://data.go
 | Shift Research Lab | [denvermetrodata.org](http://denvermetrodata.org) |  aggregates various federal (census/American Community Survey) and local county/city datasets by neighborhood, tract, custom regions; great visualizations | "report builder" search query > csv |
 | OpenColorado | [data.opencolorado.org](http://data.opencolorado.org) | awesome volunteer / non-profit catalog of open data in Colorado. highly recommended. ⭐ | CKAN |
 |Regional Transportation District | [rtd-denver.com/Developer.shtml](http://rtd-denver.com/Developer.shtml) | real time schedule data, transit routes/stop locations | GTFS API, shapefiles |
-
+|University of Colorado System | [cu.edu/budgetpolicy/accountability-data-center](http://www.cu.edu/budgetpolicy/accountability-data-center)| budget, institutional research information for the UC campuses | csv, search query|
 
 ## County Organizations
 
@@ -72,7 +73,6 @@ Note: The [Colorado Municipal League](https://www.cml.org/cml-member-directory/)
 
 # Citizen-Wrangled Data
 
-
 Below are some open-source Github projects that we know of trying to make Colorado data more open.
 
 Feel free to get in touch or submit an Github issue if (1) you have a project wrangling Colorado data, or (2) have a recommendation on what public data to wrangle next / want to work together on something!
@@ -84,8 +84,7 @@ Feel free to get in touch or submit an Github issue if (1) you have a project wr
 
 ## On-Going Projects
 
-
 | Owner | Site | Notes |
 |:----|:---|:---|
 | @chooliu | [colorado-environmental-records-scraper](https://github.com/chooliu/colorado-environmental-records-scraper) | scraping permit violations / Title V records from CDHPE |
-| @chipoglesby |  [larimerCountyRestaurantInspections](https://github.com/chipoglesby/larimerCountyRestaurantInspections)| scraping food inspections from Larimer County |
+| @chipoglesby | [larimerCountyRestaurantInspections](https://github.com/chipoglesby/larimerCountyRestaurantInspections)| scraping food inspections from Larimer County |
